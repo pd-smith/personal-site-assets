@@ -1,0 +1,28 @@
+[{
+    "name": "Kent C. Dodds",
+    "handle": "@kentcdodds",
+    "pictureHref": "https://pbs.twimg.com/profile_images/759557613445001216/6M2E1l4q_400x400.jpg",
+    "twitterHref": "https://twitter.com/kentcdodds"
+},{
+    "name": "Tim Neutkens",
+    "handle": "@timneutkens",
+    "pictureHref": "https://pbs.twimg.com/profile_images/1198231878383345666/tOW5lHRV_400x400.jpg",
+    "twitterHref": "https://twitter.com/timneutkens"
+},{
+    "name": "Dan Abramov",
+    "handle": "@dan_abramov",
+    "pictureHref": "https://pbs.twimg.com/profile_images/1268663650832744449/-jmtfbqQ_400x400.jpg",
+    "twitterHref": "https://twitter.com/dan_abramov"
+},{
+    "name": "Jared Palmer",
+    "handle": "@jaredpalmer",
+    "pictureHref": "https://pbs.twimg.com/profile_images/892351529348411392/FLQyLnoc_400x400.jpg",
+    "twitterHref": "https://twitter.com/jaredpalmer"
+},
+{
+    "name": "Andrew Blick",
+    "handle": "@blicksky",
+    "pictureHref": "https://pbs.twimg.com/profile_images/517125964455608320/OFgplYn6_400x400.png",
+    "twitterHref": "https://twitter.com/blicksky"
+}
+]
