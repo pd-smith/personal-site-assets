@@ -1,11 +1,11 @@
 [{
     "title": "Write tests. Not too many. Mostly integration.",
     "articleLink": "https://kentcdodds.com/blog/write-tests",
-    "imageLink": "/testing.jpg",
+    "imageLink": "https://raw.githubusercontent.com/pd-smith/personal-site-assets/master/images/testing.jpg",
     "description": "This article inspires me to write tests that give confidence, instead of focusing on lines covered."
 }, {
     "title": "My Decade in Review",
     "articleLink": "https://overreacted.io/my-decade-in-review/",
-    "imageLink": "/learning.jpg",
+    "imageLink": "https://raw.githubusercontent.com/pd-smith/personal-site-assets/master/images/learning.jpg",
     "description": "A personal reminder that those we look up to also face hardships, and those hardships help shape who we are."
 }]
